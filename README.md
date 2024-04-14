@@ -1,7 +1,7 @@
 # depression-PMBFN
 This is the details about the PMBFN model architecture in the "Parallel Multi-Scale Bridge Fusion Network for Audio-Visual Automatic Depression Assessment" paper.
 
-We provide parameter information of each core component of PMBFN in the table below.
+We have provided specific information about the core components of PMBFN in the following table.
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="926" style="width:694.6pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
