@@ -362,7 +362,7 @@ We have provided specific information about the core components of PMBFN in the 
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.55pt">
-  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">256D Dense Layer<o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">256D、128D Dense Layer<o:p></o:p></span></p>
   </td>
   <td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
